@@ -1,0 +1,6 @@
+/*.txt
+/*.model
+/*.vocab
+/__pycache__/*
+/data/
+
